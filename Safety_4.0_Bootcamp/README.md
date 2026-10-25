@@ -54,17 +54,17 @@ PaketPro föyünde senaryo verileri (internete açık uzak bakım modülü, `adm
 - **Uzak erişim kararı:** jump server, VPN, MFA, kişisel hesap, tam oturum kaydı, varsayılan kapalı.
 - **Emniyet bağımsızlığı:** uzak erişim ele geçirilse bile emniyet fonksiyonu devre dışı kalmamalı. Cevaplar çözüm değil **gereksinim** olarak yazıldı (föyün tarafsızlık notuna uygun).
 
-## 5. Önerilen repo yapısı
+## 5. Klasör Yapısı
 
 ```
 Safety_4.0_Bootcamp/
 ├── README.md
-├── Siseleme_Hatti/
+├── GENEL_SURUM_Siseleme_Hatti/
 │   ├── LAB1_Safety_Architecture.docx
 │   ├── LAB2_IEC_62443_Mini_Workshop.docx
 │   ├── LAB3_Threat_and_Risk.docx
 │   └── LAB4_Secure_Remote_Access.docx
-└── PaketPro_3000/
+└── PAKETPRO_3000_Paketleme_Makinesi/
     ├── LAB1_Safety_Architecture.docx
     ├── LAB2_IEC_62443_Mini_Workshop.docx
     ├── LAB3_Threat_and_Risk.docx
